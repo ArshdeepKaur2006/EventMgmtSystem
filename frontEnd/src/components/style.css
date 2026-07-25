@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* login page */
+.bgLogin{
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 15px;
+    width:300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hLogin{
+    color: black;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.eLogin{
+    color: rgb(56, 56, 56);
+    font-size: 0.8rem;
+    
+}
+.ineLogin{
+    color: rgb(56, 56, 56);
+    background-color: white;
+    font-size: 1rem;
+    height: 32px;
+    border-radius: 8px;
+    width: 90%;
+}
+.pLogin{
+    color: rgb(56, 56, 56);
+    font-size: 0.8rem;
+}
+.inpLogin{
+    color: rgb(56, 56, 56);
+    background-color: white;
+    font-size: 1rem;
+    height: 32px;
+    border-radius: 10px;
+    width: 90%;
+}
+.btLogin{
+    background-color: rgb(3, 97, 137);
+    color: white;
+    height: 35px;
+    width: 90%;
+    border-radius: 8px;
+    margin: 10px;
+}
+.noLogin{
+    color: rgb(56, 56, 56);
+    padding: 10px;
+    font-size: 0.8rem;
+}
+.aLogin{
+    color: rgb(0, 89, 255);
+    text-decoration: none;
+}
+
+/* register page */
+.bgReg{
+    background-color: white;
+    border-radius: 15px;
+    width:300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hReg{
+    color: black;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.uReg{
+    color: rgb(56, 56, 56);
+    font-size: 0.8rem;
+    
+}
+.inuReg{
+    color: rgb(56, 56, 56);
+    background-color: white;
+    font-size: 1rem;
+    height: 32px;
+    border-radius: 8px;
+    width: 90%;
+}
+.eReg{
+    color: rgb(56, 56, 56);
+    font-size: 0.8rem;
+    
+}
+.ineReg{
+    color: rgb(56, 56, 56);
+    background-color: white;
+    font-size: 1rem;
+    height: 32px;
+    border-radius: 8px;
+    width: 90%;
+}
+.pReg{
+    color: rgb(56, 56, 56);
+    font-size: 0.8rem;
+}
+.inpReg{
+    color: rgb(56, 56, 56);
+    background-color: white;
+    font-size: 1rem;
+    height: 32px;
+    border-radius: 10px;
+    width: 90%;
+}
+.btReg{
+    background-color: rgb(3, 97, 137);
+    color: white;
+    height: 35px;
+    width: 90%;
+    border-radius: 8px;
+    margin: 10px;
+}
+.noReg{
+    color: rgb(56, 56, 56);
+    padding: 10px;
+    font-size: 0.8rem;
+}
+.aReg{
+    color: rgb(0, 89, 255);
+    text-decoration: none;
+}
+
