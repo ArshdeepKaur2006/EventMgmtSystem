@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  max-width: 1195px;
+  margin: 0 0;
+  text-align: center;
+  padding: 0;
+}
+body{
+  width:100%;
+}
+#root div{
+  margin: 0;
+}
+
